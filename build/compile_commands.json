@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -IC:/Users/htyne/Projects/Kernel/external/include/glad -IC:/Users/htyne/Projects/Kernel/external/include -o CMakeFiles\\glad.dir\\external\\src\\glad.c.obj -c C:\\Users\\htyne\\Projects\\Kernel\\external\\src\\glad.c",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\external\\src\\glad.c",
+  "output": "CMakeFiles\\glad.dir\\external\\src\\glad.c.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\main.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\main.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\main.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\scenes\\objects\\camera.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\objects\\camera.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\objects\\camera.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\scenes\\objects\\camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\scenes\\objects\\scene_object.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\objects\\scene_object.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\objects\\scene_object.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\scenes\\objects\\scene_object.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\scenes\\scene.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\scene.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\scenes\\scene.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\scenes\\scene.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\shaders\\shader.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\shaders\\shader.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\shaders\\shader.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\shaders\\shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\math\\mat3x3.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\mat3x3.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\mat3x3.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\math\\mat3x3.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\math\\mat4x4.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\mat4x4.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\mat4x4.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\math\\mat4x4.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\math\\quat.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\quat.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\quat.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\math\\quat.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\math\\vec3.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\vec3.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\vec3.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\math\\vec3.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\math\\vec4.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\vec4.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\math\\vec4.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\math\\vec4.cpp.obj"
+},
+{
+  "directory": "C:/Users/htyne/Projects/Kernel/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/htyne/Projects/Kernel/external/include -IC:/Users/htyne/Projects/Kernel/external/include/glad -o CMakeFiles\\Kernel.dir\\src\\tools\\stb_image.cpp.obj -c C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\stb_image.cpp",
+  "file": "C:\\Users\\htyne\\Projects\\Kernel\\src\\tools\\stb_image.cpp",
+  "output": "CMakeFiles\\Kernel.dir\\src\\tools\\stb_image.cpp.obj"
+}
+]

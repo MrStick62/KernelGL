@@ -6,9 +6,7 @@
 #include <chrono>
 #include <thread>
 
-#include "shaders/shader.hpp"
 #include "scenes/scene.hpp"
-#include "scenes/objects/scene_object.hpp"
 
 /*
     Determines the default window size

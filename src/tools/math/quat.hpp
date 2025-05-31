@@ -21,7 +21,7 @@ public:
 
     inline static Quat fromForwardUp(const Vec3& forward, const Vec3& up) {
         const Vec3 safeForward = forward.getSafeNormal();
-        const Vec3 safeRight = Vec3::cross(up.getSafeNormal(), safeForward);
+        const Vec3 safeRight = Vec3::cross(safeForward, up.getSafeNormal());
         const Vec3 safeUp = Vec3::cross(safeRight, safeForward);
 
         const float trace = safeRight.x + safeUp.y + safeForward.z;
