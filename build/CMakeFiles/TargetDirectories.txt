@@ -1,4 +1,0 @@
-C:/Users/htyne/Projects/Kernel/build/CMakeFiles/glad.dir
-C:/Users/htyne/Projects/Kernel/build/CMakeFiles/Kernel.dir
-C:/Users/htyne/Projects/Kernel/build/CMakeFiles/edit_cache.dir
-C:/Users/htyne/Projects/Kernel/build/CMakeFiles/rebuild_cache.dir
